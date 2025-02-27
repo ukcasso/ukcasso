@@ -22,6 +22,8 @@ Welcome to my GitHub! I'm a **TypeScript developer** with experience in **React,
 
 ### 🌟 Projects & Interests
 - 📱 **환율노트**: A currency exchange rate tracking app with multilingual support
+  - [📲 Google Play](https://play.google.com/store/apps/details?id=com.ratenote.app.android&pli=1)  
+  - [🍏 App Store](https://apps.apple.com/us/app/rate-note-real-time-offline/id6670464736) 
 - 🤖 Web scraping for **Naver Shopping & Danawa** and automation tools
 - 🚀 Exploring **build automation** and modern DevOps workflows
 
