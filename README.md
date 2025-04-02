@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a **TypeScript developer** with experience in **React,
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Frontend:** React, React Native (Expo), Next.js, TypeScript
+- **Frontend:** React, React Native (CLI, Expo), Next.js, TypeScript
 - **Backend:** Node.js, Express
 - **Mobile:** React Native, Expo
 - **DevOps:** GitHub Actions, EAS Build
